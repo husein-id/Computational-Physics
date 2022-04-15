@@ -1,1 +1,7 @@
-# Computational-Physics
+# Computational Physics
+
+## Physics
+
+## Mathematics
+
+## Computer Science
